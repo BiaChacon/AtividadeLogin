@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AtividadeLogin</string>
+    <string name="bem_vindo">Bem-Vindo !</string>
+    <string name="login_falha">Erro Login</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+</resources>
